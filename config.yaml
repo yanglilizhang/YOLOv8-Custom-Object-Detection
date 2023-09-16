@@ -1,7 +1,10 @@
-path: C:\Users\EbruSaraBagca\PycharmProjects\YOLOv8-CustomObjectDetection\dataset
-train: images/train
-val: images/validation
+#path: C:\Users\EbruSaraBagca\PycharmProjects\YOLOv8-CustomObjectDetection\dataset
+#train: images/train
+#val: images/validation
+path: /content/drive/MyDrive/plate_detect_data
+train: train_data
+val: val_detect
 
 # Classes ss
 names:
-  0: bus
+  0: uc
