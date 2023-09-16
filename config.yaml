@@ -2,6 +2,6 @@ path: C:\Users\EbruSaraBagca\PycharmProjects\YOLOv8-CustomObjectDetection\datase
 train: images/train
 val: images/validation
 
-# Classes
+# Classes ss
 names:
   0: bus
